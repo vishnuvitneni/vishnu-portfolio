@@ -4,6 +4,7 @@
      crossorigin="anonymous"></script></head>
      <head>
   <meta charset="UTF-8">
+          <meta name="google-adsense-account" content="ca-pub-7191906117952540">
   <title>Your Name - Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
