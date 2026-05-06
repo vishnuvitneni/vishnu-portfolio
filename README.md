@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7191906117952540"
+     crossorigin="anonymous"></script>
   <meta charset="UTF-8">
   <title>Your Name - Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
